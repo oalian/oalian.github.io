@@ -1,3 +1,4 @@
 = oalian.github.io
 
-The organization website for open-source software developed at http://oalian.com/[Oalian, LLC].
+The organization website for open-source software developed at
+http://www.oalian.com/[Oalian, LLC].
